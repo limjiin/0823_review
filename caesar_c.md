@@ -4,7 +4,7 @@
 - It is simple type of substitution cipher.
 - Each letter of plain text is replaced by a letter with some fixed number of positions down with alphabet.
 
-#circulation
+#calculation
 
 ##how to
 
