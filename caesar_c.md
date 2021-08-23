@@ -1,8 +1,8 @@
 #description
 
-- Caesar Cipher Technique is the simple and easy method of encryption technique.
-- It is simple type of substitution cipher.
-- Each letter of plain text is replaced by a letter with some fixed number of positions down with alphabet.
+-'Caesar Cipher Technique is the simple and easy method of encryption technique.'
+-'It is simple type of substitution cipher'
+-'Each letter of plain text is replaced by a letter with some fixed number of positions down with alphabet'
 
 #calculation
 
@@ -12,10 +12,12 @@
 
 ##example
 
--Plaintext:  THE QUICK BROWN FOX JUMPS OVER THE LAZY DOG
+-Plaintext: THE QUICK BROWN FOX JUMPS OVER THE LAZY DOG
 -Ciphertext: QEB NRFZH YOLTK CLU GRJMP LSBO QEB IXWV ALD
 
 ## mathematical expression
 
-$En(x)=(x+n) mod {26}$
-$Dn(x)=(x-n) mod {26}$
+-En(x)=(x+n) mod {26}
+-Dn(x)=(x-n) mod {26}
+
+#Source: Wiki
