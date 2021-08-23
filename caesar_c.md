@@ -17,5 +17,5 @@
 
 ## mathematical expression
 
--En(x)=(x+n) mod {26}.
--Dn(x)=(x-n) mod {26}.
+$En(x)=(x+n) mod {26}$
+$Dn(x)=(x-n) mod {26}$
