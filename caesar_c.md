@@ -12,10 +12,10 @@
 
 ##example
 
-Plaintext:  THE QUICK BROWN FOX JUMPS OVER THE LAZY DOG
-Ciphertext: QEB NRFZH YOLTK CLU GRJMP LSBO QEB IXWV ALD
+-Plaintext:  THE QUICK BROWN FOX JUMPS OVER THE LAZY DOG
+-Ciphertext: QEB NRFZH YOLTK CLU GRJMP LSBO QEB IXWV ALD
 
 ## mathematical expression
 
-En(x)=(x+n) mod {26}.
-Dn(x)=(x-n) mod {26}.
+-En(x)=(x+n) mod {26}.
+-Dn(x)=(x-n) mod {26}.
